@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DXMORS
+- 👀 I’m interested in PYTHON
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
